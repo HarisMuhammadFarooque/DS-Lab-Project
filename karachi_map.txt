@@ -1,0 +1,66 @@
+25
+Saddar
+Clifton
+DHA
+Korangi
+Landhi
+Malir
+Jinnah Airport
+Gulshan-e-Iqbal
+Gulistan-e-Johar
+North Nazimabad
+Nazimabad
+Orangi Town
+SITE
+Lyari
+Keamari
+PECHS
+Tariq Road
+Bahadurabad
+Federal B Area
+North Karachi
+Surjani Town
+Scheme 33
+Gulshan-e-Maymar
+Liaquatabad
+Model Colony
+39
+0 1 6
+0 13 4
+0 15 6
+0 14 9
+1 2 4
+2 3 12
+2 15 8
+3 4 7
+3 24 9
+3 6 10
+4 5 5
+5 24 4
+5 21 14
+6 15 9
+6 24 4
+6 8 7
+7 16 7
+7 17 6
+7 8 4
+7 9 9
+7 18 4
+8 21 8
+9 10 4
+9 19 7
+9 18 5
+10 13 6
+10 12 6
+10 23 4
+11 19 9
+11 12 7
+12 13 7
+12 14 8
+13 14 6
+15 16 2
+16 23 4
+16 17 2
+18 23 3
+19 20 8
+21 22 9
